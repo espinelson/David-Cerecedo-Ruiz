@@ -1,8 +1,8 @@
 # David-Cerecedo-Ruiz
 ¡Hola Mundo! Soy David 
 Sobre mí
-Soy un ingeniero con base sólida en electrónica, automatización y desarrollo de software, actualmente enfocado en dar el salto hacia el mundo de la ciberseguridad. Me apasiona entender cómo funcionan los sistemas a bajo nivel — desde los microcontroladores hasta las redes — y usar ese conocimiento para construir (y proteger) infraestructuras más seguras.
-Soy autodidacta por naturaleza, con perfil analítico y pasión por resolver problemas complejos. Si algo se puede hackear, optimizar o automatizar, ya estoy pensando en cómo hacerlo. 🔍
+Soy un ingeniero con base sólida en electrónica, automatización y desarrollo de software, actualmente enfocado en dar el salto hacia el mundo de la ciberseguridad. Me apasiona entender cómo funcionan los sistemas a bajo nivel desde los microcontroladores hasta las redes y usar ese conocimiento para construir (y proteger) infraestructuras más seguras.
+Soy autodidacta por naturaleza, con perfil analítico y pasión por resolver problemas complejos. Si algo se puede hackear, optimizar o automatizar, ya estoy pensando en cómo hacerlo. 
 
 Lo que hago
 
