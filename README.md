@@ -1,5 +1,4 @@
 # David-Cerecedo-Ruiz
-soy chido
 ¡Hola Mundo! Soy David 
 Sobre mí
 Soy un ingeniero con base sólida en electrónica, automatización y desarrollo de software, actualmente enfocado en dar el salto hacia el mundo de la ciberseguridad. Me apasiona entender cómo funcionan los sistemas a bajo nivel — desde los microcontroladores hasta las redes — y usar ese conocimiento para construir (y proteger) infraestructuras más seguras.
@@ -15,24 +14,23 @@ Diseño tarjetas electrónicas (PCB) con Eagle bajo normas industriales
 Modelo piezas mecánicas en Autodesk Fusion
 Trabajo con sistemas Linux y Windows, y gestiono código con Git / GitHub
 
-
-🎯 Rumbo a la Ciberseguridad
+-Rumbo a la Ciberseguridad
 Estoy construyendo mi camino hacia el mundo ofensivo y defensivo de la seguridad informática. Mi background en electrónica y redes me da una ventaja única para entender vulnerabilidades a nivel de hardware y protocolo.
 Actualmente explorando:
 
-🔐 Análisis de tráfico y detección de intrusiones (Wireshark, IDS/IPS)
-🌐 Seguridad en redes (Modelo OSI / TCP-IP)
-🐧 Seguridad en entornos Linux
-🛡️ CTF challenges y ethical hacking
-📡 Hardware hacking y seguridad en sistemas embebidos
+-Análisis de tráfico y detección de intrusiones (Wireshark, IDS/IPS)
+-Seguridad en redes (Modelo OSI / TCP-IP)
+-Seguridad en entornos Linux
+-CTF challenges y ethical hacking
+-Hardware hacking y seguridad en sistemas embebidos
 
 
-🎓 Educación
+-Educación
 
 Ingeniería en Comunicaciones y Electrónica
-🏛️ Instituto Politécnico Nacional — ESIME Zacatenco
+Instituto Politécnico Nacional — ESIME Zacatenco
 
-🧠 Actualmente aprendiendo
+-Actualmente aprendiendo
 
 Pentesting y análisis de vulnerabilidades
 Criptografía aplicada
